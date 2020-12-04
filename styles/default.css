@@ -1,0 +1,126 @@
+		/*FRAMEWORK*/
+		nav {
+			color: white;
+			margin-bottom: 15px;
+			border-bottom: solid 3px black;
+			border-top: solid 3px black;
+			justify-content: space-evenly;
+			justify-content: space-around;
+			display: flex;
+			padding: 10px 10px 10px 10px;
+		}
+		nav a:visited {
+			color: #fcc603;
+			font-size: 1.25em;
+		}
+		nav a:hover {
+			background-color: lightgrey;
+			text-shadow: 2px 2px 2px black
+		}
+
+		body{
+			background-color:#2E4053;
+			font-family: Tisa, "Trebuchet MS", Helvetica, sans-serif;
+			font-size: 25px;
+			color:white;
+			margin:0 100px;
+			text-decoration:none;
+        } 
+		main a:hover {
+			background-color: lightgrey;
+			text-shadow: 2px 2px 2px black
+		}
+		a{
+			text-decoration:none;
+			color:gold;
+		}
+		footer{
+			text-align: center;
+			text-decoration:none;
+			background-color:none;
+			margin-top: 15px;
+		}
+		
+		/* TEXT */
+		h1{
+			color:White;
+			text-align: center;
+			display: block;
+			font-size: 2em;
+			font-weight: 700;
+		}
+		h2{
+			color:White;
+			text-align: center;
+		}
+		h4{
+			text-align:center;
+		}
+		h6{
+			text-align:center;
+		}
+		p{
+			color:White;
+			text-align: left;
+		}
+		ul{
+			color:White;
+		}
+		
+		/*TABLE STUFF*/
+		table {
+			margin: auto;
+			border-color:gold;
+			border-width: 5px;
+			border-style: solid;
+			color: white;
+			font-size: 30px;
+		}
+		th {
+			display: table-cell;
+			vertical-align: inherit;
+			font-weight: bold;
+		}
+		td, th {
+			margin: auto;
+			border-color:black;
+			border-width:1px;
+			border-style:solid;
+			padding: .25em;
+		}
+		tbody {
+			display: table-row-group;
+			vertical-align: middle;
+			border-color: inherit;
+		}	
+		tr {
+			display: table-row;
+			vertical-align: inherit;
+			border-color: inherit;
+		}
+		caption{
+			color:gold; 
+			font-size: 35px;
+		}
+		
+		/*CLASSES*/
+		.center {
+		  display: block;
+		  margin-left: auto;
+		  margin-right: auto;
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
